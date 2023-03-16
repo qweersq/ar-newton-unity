@@ -1,0 +1,17 @@
+# Folder yang berisi file sementara hasil build
+Builds/
+
+# Folder yang berisi cache dari Unity
+Temp/
+
+# Folder yang berisi file log
+Logs/
+
+# Folder yang berisi file yang dihasilkan oleh Unity ketika proyek dijalankan
+Library/
+
+# File sementara yang dibuat oleh editor Visual Studio Code
+.vscode/
+
+# File yang dihasilkan oleh MacOS
+.DS_Store
