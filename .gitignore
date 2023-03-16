@@ -15,3 +15,11 @@ Library/
 
 # File yang dihasilkan oleh MacOS
 .DS_Store
+
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+ProjectSettings/Packages/com.unity.learn.iet-framework/Settings.json
+Packages/packages-lock.json
+Assets/XR/Settings/Open XR Package Settings.asset
+Assembly-CSharp.csproj
+ar-newton-unity.sln
