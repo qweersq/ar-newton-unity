@@ -9,7 +9,7 @@ public class index.c : MonoBehaviour
     {
         // Hadad
         // Bayu
-        // Reza
+        // Reza Fatur
     }
 
     // Update is called once per frame
