@@ -4,21 +4,28 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeMenu.unity
+    guid: e0645410133b4ed45a2aa0f7daa7ceb2
+  - enabled: 1
+    path: Assets/Scenes/Newton1_Intro.unity
+    guid: fcbf9627fc3fbf3498e5c16af40e0b56
+  - enabled: 1
+    path: Assets/Scenes/Newton1_Play.unity
+    guid: c3c8d1d0b800def448799d1b5b092bdc
+  - enabled: 1
+    path: Assets/Scenes/Newton2_Intro.unity
+    guid: 6336ceb883be00844aeba5def6cf5c71
+  - enabled: 1
+    path: Assets/Scenes/Newton2_Play.unity
+    guid: c3d2f51dd73e2054ead65f63b22ecc05
+  - enabled: 1
+    path: Assets/Scenes/Newton3_Intro.unity
+    guid: 8f8a7fdbdacc0ea458e844725255442c
+  - enabled: 1
+    path: Assets/Scenes/Newton3_Play.unity
+    guid: fbb7a1bea6beb1f4e9d0392601594070
   m_configObjects:
-    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
-      type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 89a6d18d3df8d3e4fa917b0f9a963bc0,
-      type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: de8a8e4f987434338a4b1062feb8d069,
-      type: 2}
-    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: c2f7b8d7c0bff4d10874cbcf3f24af78,
-      type: 2}
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
-      type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
-      type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
-      type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6bb381a8ba31f114d9724357633b4625,
-      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8c03160ef1438ec459425e5748d5b105, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f015f671728005642904f4888205dacc, type: 2}
