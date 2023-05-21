@@ -53,7 +53,7 @@ v1.0 : [Download](https://drive.google.com/file/d/1VcE9GKZv_AsMqWkSc6bhvhMo_CgjC
 
 ## Dokumentasi
 
-YouTube: Coming Soon.
+YouTube: [Klik Disini](https://youtu.be/TpsNW2uqOlE)
 
 ## Pengembang
 
