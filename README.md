@@ -1,5 +1,6 @@
 # AR Newton's Law
 
+![Thumbnail AR Newton's Law](./Thumbnail_AR_Newton_Law.png)
 Proyek AR Hukum Newton 1, 2, dan 3 memiliki tujuan untuk memvisualisasikan dan mempelajari konsep-konsep fisika yang mendasar dalam Hukum Newton 1, 2, dan 3 melalui penggunaan teknologi Augmented Reality (AR). Proyek ini menggunakan game engine Unity dan SDK ARCore untuk menciptakan pengalaman AR yang interaktif.
 
 ## 3D Model
@@ -16,11 +17,15 @@ Sumber 3D Model:
 - [Meshtint Free City Lite Pack Mega Toon Series](https://assetstore.unity.com/packages/3d/environments/urban/meshtint-free-city-lite-pack-mega-toon-series-152378)
 
 ## Simulasi Hukum Newton 1, 2, dan 3
-- **Hukum Newton 1**, objek bola digunakan untuk memvisualisasikan Hukum Newton 1, yaitu hukum inersia. Pengguna dapat melempar bola ke udara dan melihat bagaimana bola tetap bergerak dengan kecepatan konstan kecuali jika ada gaya yang bekerja padanya.
 
-- **Hukum Newton 2**, objek mobil digunakan untuk memvisualisasikan Hukum Newton 2, yaitu hukum aksi-reaksi. Pengguna dapat menempatkan mobil di atas permukaan datar dan menekan pedal gas untuk melihat bagaimana mobil mulai bergerak dan mengalami gaya gesek yang berlawanan arah.
+![Thumbnail Hukum Newton 1](./Thumbnail_Hukum_Newton_1.png)
+**Hukum Newton 1**, objek bola digunakan untuk memvisualisasikan Hukum Newton 1, yaitu hukum inersia. Pengguna dapat melempar bola ke udara dan melihat bagaimana bola tetap bergerak dengan kecepatan konstan kecuali jika ada gaya yang bekerja padanya.
 
-- **Hukum Newton 3**, objek roket digunakan untuk memvisualisasikan Hukum Newton 3, yaitu hukum aksi-reaksi. Pengguna dapat melemparkan roket ke udara dan melihat bagaimana roket bergerak dengan gaya yang sama. Namun, berlawanan arah dengan gaya dorong yang dihasilkan oleh mesin roket.
+![Thumbnail Hukum Newton 2](./Thumbnail_Hukum_Newton_2.png)
+**Hukum Newton 2**, objek mobil digunakan untuk memvisualisasikan Hukum Newton 2, yaitu hukum aksi-reaksi. Pengguna dapat menempatkan mobil di atas permukaan datar dan menekan pedal gas untuk melihat bagaimana mobil mulai bergerak dan mengalami gaya gesek yang berlawanan arah.
+
+![Thumbnail Hukum Newton 3](./Thumbnail_Hukum_Newton_3.png)
+**Hukum Newton 3**, objek roket digunakan untuk memvisualisasikan Hukum Newton 3, yaitu hukum aksi-reaksi. Pengguna dapat melemparkan roket ke udara dan melihat bagaimana roket bergerak dengan gaya yang sama. Namun, berlawanan arah dengan gaya dorong yang dihasilkan oleh mesin roket.
 
 ## Rencana Pengembangan
 
@@ -50,4 +55,4 @@ YouTube: Coming Soon.
 
 ## Pengembang
 
-Coming Soon.
+![Thumbnail Pengembang](./Thumbnail_Pengembang.png)
