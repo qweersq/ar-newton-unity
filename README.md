@@ -15,6 +15,8 @@ Sumber 3D Model:
 - [Free Sports Kit](https://assetstore.unity.com/packages/3d/characters/free-sports-kit-239377)
 - [Vehicle](https://learn.unity.com/tutorial/set-up-your-first-project-in-unity?uv=2021.3&projectId=5caccdfbedbc2a3cef0efe63)
 - [Meshtint Free City Lite Pack Mega Toon Series](https://assetstore.unity.com/packages/3d/environments/urban/meshtint-free-city-lite-pack-mega-toon-series-152378)
+- [Atom Rocket Model](https://assetstore.unity.com/packages/3d/vehicles/space/atom-rocket-model-140021)
+- [Particle Pack](https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325)
 
 ## Simulasi Hukum Newton 1, 2, dan 3
 
