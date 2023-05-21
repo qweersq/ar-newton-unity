@@ -7,9 +7,9 @@ Proyek AR Hukum Newton 1, 2, dan 3 memiliki tujuan untuk memvisualisasikan dan m
 
 Nantinya, akan terdapat 3 simulasi yang tersedia dan 3D model yang digunakan adalah sebagai berikut:
 
-- Bola
-- Mobil
-- Roket
+- Bola,
+- Mobil, dan
+- Roket.
 
 Sumber 3D Model:
 - [Free Sports Kit](https://assetstore.unity.com/packages/3d/characters/free-sports-kit-239377)
@@ -36,7 +36,7 @@ Sumber 3D Model:
 - Menambahkan Scene Newton 1 Intro, Play, dan Quiz. ✅
 - Menambahkan Scene Newton 2 Intro, Play, dan Quiz. ✅
 - Menambahkan Scene Newton 3 Intro, Play, dan Quiz. ✅
-- Mengubah Icon atau Logo dan Versi Aplikasi.
+- Mengubah Icon atau Logo dan Versi Aplikasi. ✅
 
 ## Mockup
 
@@ -44,7 +44,7 @@ Figma : [Wireframes + Mockup](https://www.figma.com/file/nbnUcL2L7NkyHyptQOgRMF/
 
 ## Demo
 
-Coming Soon.
+v1.0 : [Download](https://drive.google.com/file/d/1VcE9GKZv_AsMqWkSc6bhvhMo_CgjC1ND/view?usp=share_link)
 
 ## Persyaratan Sistem
 
