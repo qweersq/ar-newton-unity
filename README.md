@@ -42,7 +42,7 @@ Sumber 3D Model:
 
 Figma : [Wireframes + Mockup](https://www.figma.com/file/nbnUcL2L7NkyHyptQOgRMF/AR-Newton's-Law?type=design&node-id=302%3A9&t=umw56azSORDk3k07-1)
 
-## Demo
+## Aplikasi
 
 v1.0 : [Download](https://drive.google.com/file/d/1VcE9GKZv_AsMqWkSc6bhvhMo_CgjC1ND/view?usp=share_link)
 
@@ -51,7 +51,7 @@ v1.0 : [Download](https://drive.google.com/file/d/1VcE9GKZv_AsMqWkSc6bhvhMo_CgjC
 - Minimal Android 8 "Oreo".
 - Pastikan SmartPhone Anda dapat menjalankan atau kompatibel dengan syarat terdapat "Google Play Services for AR" di Play Store Anda.
 
-## Dokumentasi
+## Dokumentasi / Demo
 
 YouTube: [Klik Disini](https://youtu.be/TpsNW2uqOlE)
 
