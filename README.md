@@ -51,7 +51,7 @@ v1.0 : [Download](https://drive.google.com/file/d/1VcE9GKZv_AsMqWkSc6bhvhMo_CgjC
 - Minimal Android 8 "Oreo".
 - Pastikan SmartPhone Anda dapat menjalankan atau kompatibel dengan syarat terdapat "Google Play Services for AR" di Play Store Anda.
 
-## Dokumentasi / Demo
+## Demo
 
 YouTube: [Klik Disini](https://youtu.be/TpsNW2uqOlE)
 
